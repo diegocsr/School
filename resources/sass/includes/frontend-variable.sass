@@ -1,0 +1,62 @@
+// Mixin declaration
+@mixin transition
+  transition: 300ms ease
+@mixin main-blue
+  background: #14206a
+@mixin main-sky
+  background: #1692ff
+@mixin main-green
+  background: #14cb51
+// Common style declaration
+*
+  font-family: Open Sans,Helvetica,Arial,sans-serif
+.main-blue
+  @include main-blue
+.main-sky
+  @include main-sky
+.main-green
+  @include main-green
+.btn-arrow:after
+  content: ''
+  width: 0
+  display: block
+  top: 10px
+  height: 3px
+  position: relative
+  background: #dddddd
+  @include transition
+.btn-arrow:hover:after
+  width: 100%
+.btn-arrow img
+  @include transition
+.btn-arrow:hover img
+  margin-left: 20px
+.main-link
+  @include transition
+.main-link:hover
+  z-index: 10
+  transform: scale(1.05, 1.05)
+.news:before
+  content: 'Berita terbaru'
+  position: absolute
+  right: 0
+  top: 0
+  display: block
+  @apply bg-yellow-dark px-4 py-2 text-white text-sm
+/* QUILL EDITOR */
+.ql-toolbar.ql-snow + .ql-container.ql-snow
+  height: 500px
+.ql-editor p
+  @apply leading-loose
+.ql-editor ol li, .editor ul li
+  @apply leading-loose
+// Render result
+.editor p
+  @apply leading-loose
+.editor ol li, .editor ul li
+  @apply leading-loose
+/* END QUILL EDITOR */
+.content p, .content ul li
+  @apply leading-loose
+.content p
+  @apply mb-4

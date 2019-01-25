@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 84.243 84.243">
+  <defs>
+    <style>
+      .cls-1 {
+        opacity: 0.3;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-miterlimit: 10;
+        stroke-width: 6px;
+      }
+    </style>
+  </defs>
+  <g id="profil-icon" class="cls-1" transform="translate(3 3)">
+    <g id="Group_144" data-name="Group 144" transform="translate(0 0)">
+      <path id="Path_141" data-name="Path 141" class="cls-2" d="M387.243,55.669A10.479,10.479,0,0,0,376.573,45h-56.9A10.479,10.479,0,0,0,309,55.669v56.9a10.479,10.479,0,0,0,10.669,10.669h56.9a10.479,10.479,0,0,0,10.669-10.669Z" transform="translate(-309 -45)"/>
+    </g>
+    <line id="Line_106" data-name="Line 106" class="cls-2" y2="42.678" transform="translate(39.121 17.782)"/>
+    <line id="Line_107" data-name="Line 107" class="cls-2" x1="42.678" transform="translate(17.782 39.121)"/>
+  </g>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 106.781 106.781">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #7477d6;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-miterlimit: 10;
+        stroke-width: 7px;
+      }
+    </style>
+  </defs>
+  <g id="list-icon" transform="translate(2.5 -41.5)">
+    <path id="Path_128" data-name="Path 128" class="cls-1" d="M1,131.175a13.364,13.364,0,0,0,13.607,13.607H87.175a13.364,13.364,0,0,0,13.607-13.607V58.607A13.364,13.364,0,0,0,87.175,45H14.607A13.364,13.364,0,0,0,1,58.607Z"/>
+    <line id="Line_94" data-name="Line 94" class="cls-1" x2="4.536" transform="translate(23.678 72.213)"/>
+    <line id="Line_95" data-name="Line 95" class="cls-1" x2="31.749" transform="translate(46.355 72.213)"/>
+    <line id="Line_96" data-name="Line 96" class="cls-1" x2="4.536" transform="translate(23.678 94.891)"/>
+    <line id="Line_97" data-name="Line 97" class="cls-1" x2="31.749" transform="translate(46.355 94.891)"/>
+    <line id="Line_98" data-name="Line 98" class="cls-1" x2="4.536" transform="translate(23.678 117.568)"/>
+    <line id="Line_99" data-name="Line 99" class="cls-1" x2="31.749" transform="translate(46.355 117.568)"/>
+  </g>
+</svg>

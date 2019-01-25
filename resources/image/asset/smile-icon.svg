@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 146.125 146.125">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #6d70c9;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-miterlimit: 10;
+        stroke-width: 6px;
+      }
+    </style>
+  </defs>
+  <g id="smile-icon" transform="translate(-218 2)">
+    <circle id="Ellipse_8" data-name="Ellipse 8" class="cls-1" cx="70.063" cy="70.063" r="70.063" transform="translate(221 1)"/>
+    <path id="Path_20" data-name="Path 20" class="cls-1" d="M226,20.739a12.739,12.739,0,0,1,25.477,0" transform="translate(26.847 37.585)"/>
+    <path id="Path_21" data-name="Path 21" class="cls-1" d="M234,20.739a12.739,12.739,0,1,1,25.477,0" transform="translate(69.801 37.585)"/>
+    <path id="Path_22" data-name="Path 22" class="cls-1" d="M278.955,14A25.477,25.477,0,1,1,228,14" transform="translate(37.585 69.801)"/>
+  </g>
+</svg>
